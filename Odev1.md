@@ -15,8 +15,8 @@ Sınıf | Öğrenci İsmi  | Numara
 
 
 ## Kaynakçalar
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
 
+ 1. Debski, P. 2005. "15. Tunewolania Optyzcne"
+ 2. Royal Society of New Zealand. 2005. "11 Water Droplets New Zealand Solution" 77-81
+ 3. Losikhin, N. 2005. "Problem No 11" Winterthur 2005. http://aesc.msu.ru/25-aescmsuru/arkhiv-rabot-shkolnikov/205-Problem-N11-Droplets.html
+ 
