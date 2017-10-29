@@ -7,8 +7,12 @@ Sınıf | Öğrenci İsmi  | Numara
 # WATER DROPLETS
 
 ## Özet
- Bizim projemizin amacı su damlacıklarının hangi ortamlarda, hangi koşullarda büyük su kütlelerine karışmamasının araştırılmasıdır. Projeye göre su damlaları eğer gerekli koşullar sağlanırsa ondan büyük su kütlelerine karışmıyor. Örnek olarak bir kap dolu suya bir grup su damlası uygun açı vb. şeyler ile damlatılırsa damlalar seker ve bir süreliğine kendi etrafında dönerek suyun yüzeyi ile birleşmez. Bazı durumlarda birleşmeden öylece bekleyebilirmiş ayrıca. Hatta birleşmeden önce suya batabilirmiş bile. 
-  Projemizin çözüme ulaşmasında izleyeceğimiz yol şu şekilde: Su damlalarının sekmesi, beklemesi veya dönmesi için gerekli olan bazı değişkenleri inceleyeceğiz. Bu değişkenler şu anda açı,eğim,sıcaklık,kaba uzaklık olarak belirlendi. Her değişken sırayla farklı ölçütlerde (az,çok,orta) olmak üzere damlacıklarla denenecek. Örneğin küçük açı ile,büyük açı ile,orta açı ile; düşük sıcaklık ile,yüksek sıcaklık ile,orta sıcaklık ile vb. Bu değişkenlerin belirlenmesinde kohezyon kuvvetinin etkili olabileceği fikri de etkiye sahiptir. Bu yüzden kohezyon kuveti hakkında daha fazla bilgi toplamak da yolumuza dahil.
+ Büyük bir su kütlesine önceden değerleri belirlenmiş olan parametreler ile su damlaları damlatılırsa bu damlalar kütle ile birleşmeden önce su kütlesinin yüzeyinden sıçrayabilir veya yüzeyde yuvarlanabilir. Bu hareketleri etkileyen pek çok parametre vardır. 
+  Eğer su dolu bir kaba damlatılan su damlasının su yüzeyinde sıçraması veya suyla birleşmeden önce su yüzeyinde yuvarlanması gibi durumların oluşması isteniyorsa damlatılan damlanın yüksekliği,açısı,damlanın yoğunluğu,kap içindeki yüzey gerilimi gibi parametreler değiştirilerek istenilen durumların oluşması sağlanır. 
+  Yani bizim projemizin amacı su damlalarının hangi ortamlarda ve koşullarda büyük su kütlelerine karışmadan belirli bir süre boyunca yaptığı hareketlerin gözlemlenmesi,bu hareketleri etkileyen parametrelerin tespit edilmesi ve bu parametrelerin açıklanmasıdır. 
+  Su damlalarının hareketlerinin teker teker farklı parametreler ve değerleriyle gözlenecek olması bu projede kullanılması gereken yöntemin sınama-yanılma olduğunu ve projemizde deneysel yöntem kullanıldığını kanıtlar. Belirlediğimiz yöntemi uygun ortamı ve gerekli parametreleri hazırlayarak uygulayacağız ve bu süreci videoya alacağız. Videoyu yavaşlatarak damlaları inceleyecek ve alınan sonuçlara göre parametre değerlerini değiştireceğiz. 
+  Uygulayacağımız bu yöntemler doğrultusunda projemiz sonuçlandığında su dolu kaba bir su damlattığımızda gözlemlemek istediğimiz sonucu ne şekilde elde edeceğimizi biliyor olacağız.
+
 
 ## Kaynakçalar
  1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
